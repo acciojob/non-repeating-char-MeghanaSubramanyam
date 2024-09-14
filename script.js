@@ -27,6 +27,5 @@ const result = firstNonRepeatedChar(input);
 if (result !== null) {
     alert(result);
 } else {
-    alert("No non-repeated character found");
+    alert("No non-repeated character found"); // Change this to align with your test if necessary
 }
-
