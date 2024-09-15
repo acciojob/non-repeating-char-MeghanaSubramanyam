@@ -18,8 +18,8 @@ function firstNonRepeatedChar(str) {
 
  const input = prompt("Enter a string");
 const result = firstNonRepeatedChar(input);
-if (result !== null) {
-    alert(result);
-} else {
-    alert("No non-repeated character found"); // Change this to align with your test if necessary
-}
+// if (result !== null) {
+//     alert(result);
+// } else {
+//     alert("No non-repeated character found"); // Change this to align with your test if necessary
+// }
